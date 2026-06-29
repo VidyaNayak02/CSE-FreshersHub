@@ -45,8 +45,7 @@ CSE Freshers Hub
 │
 ├── C Programming
 ├── Java (OOP)
-├── Python
-├── Data Visualization
+├── Data Visualization(using Python)
 ├── HTML
 └── Contact
 ```
