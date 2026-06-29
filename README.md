@@ -101,6 +101,8 @@ B.Tech Computer Science Engineering
 Manipal Institute of Technology
 
 ---
+**Note:** This website is currently optimized for desktop viewing. Mobile and tablet responsiveness will be added in a future update.
+
 
 ---
 
