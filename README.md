@@ -17,10 +17,8 @@ Whether you're writing your first "Hello World" program or exploring new technol
 - 📘 C Programming Resources
 - 🌐 HTML Learning Materials
 - 🎨 CSS Tutorials
-- 🐍 Python Programming
 - ☕ Java Object-Oriented Programming (OOP)
 - 📊 Data Visualization Resources
-- 🎥 Curated YouTube Tutorials
 - 🛠️ Useful Development Tools
 - 📚 Notes and Study Materials
 - 🔗 External Learning Resources
@@ -66,7 +64,6 @@ CSE Freshers Hub
 ### Programming Languages
 - C
 - HTML
-- CSS
 - Python
 - Java (OOP)
 
@@ -75,7 +72,7 @@ CSE Freshers Hub
 - Programming Tools
 - Notes
 - Practice Platforms
-- Data Visualization Resources
+
 
 ---
 
@@ -89,6 +86,7 @@ CSE Freshers Hub
 - 🏆 Coding Challenges
 - 📅 Learning Roadmaps
 - 📈 Progress Tracker
+- Javascript
 
 ---
 
