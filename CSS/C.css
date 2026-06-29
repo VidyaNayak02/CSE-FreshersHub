@@ -1,0 +1,36 @@
+ .container {
+                display:flex;
+                flex-wrap:wrap;
+                flex-direction:row;
+                gap:30px;
+                justify-content:center;
+            }
+            .box {
+                color:white;
+                font-size:30px;
+                font-weight:bold;
+              
+                width:300px;
+                border-radius:15px;
+
+            }
+            span {
+                color:yellow;
+                font-size:40px;
+                display:block;
+                text-align:center;
+            }
+          h1 {
+            font-family:bold;
+            color:white;
+            font-size:70px;
+          }
+          .box:hover {
+            cursor:pointer;
+            color:lightblue;
+          }
+          footer {
+    color:white;
+    font-size:30px;
+    text-align:center;
+}

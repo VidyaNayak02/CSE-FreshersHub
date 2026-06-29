@@ -1,0 +1,8 @@
+ body {
+            background-image:linear-gradient(rgba(100, 180, 255, 0.35), rgba(100, 180, 255, 0.35)),url("../image/background-image.png");
+            background-repeat:no-repeat;
+            background-position:center;
+                height: 100vh;
+            background-attachment: fixed;
+           
+           }

@@ -1,0 +1,24 @@
+.card{
+    background:white;
+    border-radius:20px;
+    padding:25px;
+    transition:0.4s ease;
+    animation:float 3s ease-in-out infinite;
+}
+
+.card:hover{
+    animation:none;
+    transform:translateY(-12px);
+}
+.container{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:25px;
+    margin-top:40px;
+}
+footer {
+    text-align:center;
+    font-size:30px;
+    color:white;
+}
+

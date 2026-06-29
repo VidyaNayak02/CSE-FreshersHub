@@ -1,0 +1,29 @@
+.container{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:25px;
+    margin-top:40px;
+}
+
+.card{
+    background-color:golden;
+    border-radius:15px;
+    padding:30px;
+    color:white;
+    transition:0.3s;
+    font-size:30px;
+}
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 20px rgba(0,0,0,0.4);
+}
+span {
+    display:block;
+    text-align:center;
+    color:yellow;
+}
+footer {
+    color:white;
+    font-size:30px;
+    text-align:center;
+}
